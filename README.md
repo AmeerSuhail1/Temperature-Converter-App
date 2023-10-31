@@ -1,8 +1,3 @@
-# Temperature-Converter-App
-Certainly! Below is an example of a README file for the Temperature Converter App you've provided:
-
----
-
 # Temperature Converter App
 
 The Temperature Converter App is a simple C++ program designed to convert temperatures between Celsius and Fahrenheit. 
